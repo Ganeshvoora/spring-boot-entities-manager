@@ -16,7 +16,7 @@ A complete Spring Boot MVC application to manage **Department** and **Employee**
 
 ## How to Run
 
-1. Open a terminal in this directory (`/home/vvsganesh/dbms/entities-manager`).
+1. Open a terminal in this directory.
 2. Run tests to ensure everything is functioning correctly:
    ```bash
    mvn clean test
