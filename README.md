@@ -14,6 +14,14 @@ A complete Spring Boot MVC application to manage **Department** and **Employee**
 - Java 11+
 - Maven
 
+## Installation & Dependencies
+This project uses Maven for dependency management. All required dependencies (Spring Boot Web, Data JPA, H2 Database, Tomcat Jasper, JSTL) are defined in `pom.xml`.
+
+To download and install the dependencies locally, run:
+```bash
+mvn clean install
+```
+
 ## How to Run
 
 1. Open a terminal in this directory.
